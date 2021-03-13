@@ -15,8 +15,7 @@
                         </div>
                     </div>
                     <div class="col-md-3 cc" style="text-align: center;">
-                        <img class="c9" src="images/banner_boc_vac.png" width="80%" title="Bốc xếp hà nội"
-                             alt="Bốc xếp hà nội"/>
+                        <!-- <img class="c9" src="images/banner_boc_vac.png" width="80%" title="Bốc xếp hà nội" -->
                     </div>
                 </div>
             </div>
