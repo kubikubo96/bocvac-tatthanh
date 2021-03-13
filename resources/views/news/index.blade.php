@@ -15,7 +15,7 @@
                         <div class="row" style="margin: 0">
                             <div class="col-md-5 c3" style="padding: 0px;margin-left: 0;">
                                 <p class="c5" style="">
-                                    "Tiến Thắng cam kết trách nhiệm với khách hàng khi sử dụng dịch vụ bốc xếp, chuyển
+                                    "Hữu Ngọc cam kết trách nhiệm với khách hàng khi sử dụng dịch vụ bốc xếp, chuyển
                                     nhà…<br/>
                                     Trong khi bốc xếp, bốc vác vận chuyển nếu xảy ra mất mát, hư hỏng, bể vỡ đồ đạc của
                                     Quý khách sẽ được Uy Tín bồi thường thiệt hại 100% giá trị đồ đạc tính theo
