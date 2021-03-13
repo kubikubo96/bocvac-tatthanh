@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <base href="{{asset('')}}"/>
-    <title>Tất Thanh</title>
+    <title>Ngọc Bốc Xếp</title>
 
     <!-- Custom fonts for this template-->
     <link href="admin/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -51,7 +51,7 @@
                         <div class="col-lg-6">
                             <div class="p-5">
                                 <div class="text-center">
-                                    <h1 class="h4 text-gray-900 mb-4">Hello Tất Thanh</h1>
+                                    <h1 class="h4 text-gray-900 mb-4">Ngọc Bốc Xếp</h1>
                                 </div>
                                 <form class="user"  action="{{route('admin.handleLogin')}}" method="POST">
                                 @csrf <!-- {{ csrf_field() }} -->

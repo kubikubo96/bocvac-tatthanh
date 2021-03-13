@@ -12,10 +12,10 @@ class DatabaseSeeder extends Seeder
     public function run()
     {
         DB::table('users')->insert([
-            'name' => 'Tất Thanh',
-            'username' => 'tatthanh',
-            'phone_number' => '0984416863',
-            'other_phone_number' => '0397600676',
+            'name' => 'Admin',
+            'username' => 'admin',
+            'phone_number' => '0981490775',
+            'other_phone_number' => '',
             'email' => 'admin@admin.com',
             'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', // password
 

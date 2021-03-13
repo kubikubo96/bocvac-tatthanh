@@ -3,9 +3,9 @@
     <div class="container-fluid">
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
             <a href="{{route('show.view')}}"
-               title="Bốc xếp hà nội Tiến Thắng" class="logo-header">
+               title="Ngọc bốc xếp" class="logo-header">
                 <img src="images/{{@$logo_page->image}}"
-                     alt="Bốc xếp hà nội tiến thắng.">
+                     alt="Ngọc Bốc Xếp.">
                 <span class="text-next-logo">{{@$post->domain_logo ?? "Bốc Xếp 24/24h"}}</span>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
